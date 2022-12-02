@@ -1,0 +1,32 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/martijn1507/Workshop2/devel/include/**",
+        "/home/martijn1507/Workshop1/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/martijn1507/Workshop1/src/appel/include/**",
+        "/home/martijn1507/Workshop1/src/banaan/include/**",
+        "/home/martijn1507/Workshop2/src/Universal_Robots_ROS_Driver/controller_stopper/include/**",
+        "/home/martijn1507/Workshop1/src/custom_msgs/include/**",
+        "/home/martijn1507/Workshop2/src/ros_essentials_cpp/include/**",
+        "/home/martijn1507/Workshop2/src/rosserial/rosserial_server/include/**",
+        "/home/martijn1507/Workshop2/src/rosserial/rosserial_test/include/**",
+        "/home/martijn1507/Workshop2/src/Universal_Robots_ROS_Driver/ur_calibration/include/**",
+        "/home/martijn1507/Workshop2/src/universal_robot/ur_kinematics/include/**",
+        "/home/martijn1507/Workshop2/src/Universal_Robots_ROS_Driver/ur_robot_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
